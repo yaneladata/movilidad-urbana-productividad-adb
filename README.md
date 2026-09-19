@@ -92,7 +92,8 @@ Todas las visualizaciones fueron generadas directamente en el **Jupyter Notebook
 │   └── 03_ranking_ciudades_prioritarias.png
 ├── data/                                                <- Fuentes de datos 
 │   ├── tomtom_traffic.csv                               <- Tráfico transaccional TomTom
-│   ├── oecd_city_economy.csv                            <- Macroeconomía OECD 
+│   ├── oecd_city_economy.csv                            <- Macroeconomía OECD
+│   ├── ladb_mobility_economy_2024_clean.csv             <- Dataset unificado de trafico y macroeconomía
 ├── notebook/
 │   └── ladb_mobility_economy_project.ipynb              <- Notebook estructurado con limpieza y análisis
 └── README.md                                            <- Informe ejecutivo y documentación del proyecto
