@@ -86,10 +86,7 @@ Todas las visualizaciones fueron generadas directamente en el **Jupyter Notebook
 ## 📁 Estructura del Repositorio
 
 ```text
-├── visualizaciones/                                    <- Gráficos y visualizaciones (.png) del EDA
-│   ├── 01_boxplot_congestion.png
-│   ├── 02_scatter_gdp_vs_traffic.png
-│   └── 03_ranking_ciudades_prioritarias.png
+├── visualizaciones/                                    <- Gráficos del análisis
 ├── data/                                                <- Fuentes de datos 
 │   ├── tomtom_traffic.csv                               <- Tráfico transaccional TomTom
 │   ├── oecd_city_economy.csv                            <- Macroeconomía OECD
